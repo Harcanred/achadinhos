@@ -1,0 +1,6 @@
+{
+  "name": "Achadinhos Online - Melhores Ofertas e Produtos Shopee",
+  "description": "Portal independente de ofertas, achadinhos virais e produtos populares da Shopee Brasil com descontos imperdíveis e recomendações diárias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
